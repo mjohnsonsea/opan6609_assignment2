@@ -1,5 +1,5 @@
 # Georgetown MSBA
-## OPAN 6604: Predictive Analytics
+## OPAN 6609: Text Analytics
 ### Assignment 2: Transforming text for business insights
 
 #### Assignment Summary
